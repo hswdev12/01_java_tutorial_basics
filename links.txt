@@ -1,0 +1,10 @@
+
+
+https://raygun.com/blog/oop-concepts-java/#aggregation
+
+https://www.w3schools.com/java/java_oop.asp
+
+http://www.turhancoban.com/kitap/JAVA%20B%C4%B0LG%C4%B0SAYAR%20D%C4%B0L%C4%B0YLE%20PROGRAMLAMA.pdf
+
+
+https://www.codejava.net/java-se/networking/how-to-create-a-chat-console-application-in-java-using-socket
